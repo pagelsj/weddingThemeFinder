@@ -1,0 +1,1696 @@
+{
+  "productSet" : [ {
+    "id" : 22090624,
+    "name" : "Blue Cobalt Primrose Bridesmaid Dress",
+    "unitPrice" : 95.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001080290_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001080290_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001080290_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001080290_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "BLUE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Blues",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_SIZE_GUIDE_41" : "WomensClothing"
+    }
+  }, {
+    "id" : 22375504,
+    "name" : "Bridesmaid Lucy Beaded Heel",
+    "unitPrice" : 18.00,
+    "productIcon" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/360video.png",
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134740904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134740904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134740904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134740904_large.jpg"
+    }, {
+      "assetType" : "IMAGE_PRODUCT_ICON",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/360video.png"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsFootwear",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406480,
+    "name" : "Teen Bridesmaid Illusion Neckline Damson Dress Short",
+    "unitPrice" : 30.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506411670_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506411670_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506411670_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506411670_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "PURPLE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Purples",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22090756,
+    "name" : "Deep Coral Primrose Pleated Skirt Bridesmaid Dress",
+    "unitPrice" : 95.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001072345_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001072345_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001072345_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001072345_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_COLOUR_41" : "PINK",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Pinks",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_SIZE_GUIDE_41" : "WomensClothing"
+    }
+  }, {
+    "id" : 22375597,
+    "name" : "Older Girls Bridesmaid Ella Diamante Bow Ballet",
+    "unitPrice" : 18.00,
+    "productIcon" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/360video.png",
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134800904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134800904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134800904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134800904_large.jpg"
+    }, {
+      "assetType" : "IMAGE_PRODUCT_ICON",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/360video.png"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsFootwear",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406491,
+    "name" : "Teen Bridesmaid Illusion Neckline Grape Dress Short",
+    "unitPrice" : 30.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506420173_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506420173_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506420173_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506420173_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "PURPLE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Purples",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406460,
+    "name" : "Teen Bridesmaid One Shoulder Primrose Dress Long",
+    "unitPrice" : 40.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506289184_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506289184_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506289184_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506289184_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "IGNORE (NOT WCS)",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Yellows"
+    }
+  }, {
+    "id" : 22406439,
+    "name" : "Teen Bridesmaid llusion Neckline Blush Dress Long",
+    "unitPrice" : 40.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506323130_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506323130_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506323130_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506323130_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "ORANGE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Pinks",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22375560,
+    "name" : "Younger Girls Bridesmaid Emily Diamante Bow Wedge",
+    "unitPrice" : 18.00,
+    "productIcon" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/360video.png",
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134810904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134810904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134810904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134810904_large.jpg"
+    }, {
+      "assetType" : "IMAGE_PRODUCT_ICON",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/360video.png"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsFootwear",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406312,
+    "name" : "Teen Bridesmaid One Shoulder Navy Dress Long",
+    "unitPrice" : 40.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506240249_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506240249_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506240249_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506240249_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "BLUE",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Navys",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406199,
+    "name" : "Teen Bridesmaid Illusion Neckline Ivory Dress Short",
+    "unitPrice" : 30.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506380904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506380904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506380904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506380904_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22090910,
+    "name" : "Soft Pink Lottie Lace Bridesmaid Dress",
+    "unitPrice" : 95.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001020866_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001020866_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001020866_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001020866_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_COLOUR_41" : "PINK",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Pinks",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_SIZE_GUIDE_41" : "WomensClothing"
+    }
+  }, {
+    "id" : 22676651,
+    "name" : "Teen Bridesmaid Illusion Neckline Primrose Dress Short",
+    "unitPrice" : 30.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506449184_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506449184_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506449184_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506449184_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "IGNORE (NOT WCS)",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Yellows"
+    }
+  }, {
+    "id" : 22406365,
+    "name" : "Teen Bridesmaid Illusion Neckline Blush Dress Short",
+    "unitPrice" : 30.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506393130_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506393130_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506393130_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506393130_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "ORANGE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Pinks",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406282,
+    "name" : "Teen Bridesmaid One Shoulder Ivory Dress Short",
+    "unitPrice" : 30.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506290904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506290904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506290904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506290904_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22090939,
+    "name" : "Mint Lottie Lace Bridesmaid Dress",
+    "unitPrice" : 95.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001021678_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001021678_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001021678_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001021678_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_COLOUR_41" : "GREEN",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Mint Green and Greens",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_SIZE_GUIDE_41" : "WomensClothing"
+    }
+  }, {
+    "id" : 22406387,
+    "name" : "Teen Bridesmaid Illusion Neckline Navy Dress Long",
+    "unitPrice" : 40.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506330249_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506330249_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506330249_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506330249_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "BLUE",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Navys",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22090979,
+    "name" : "Grey Emily Glitter Bridesmaid Dress",
+    "unitPrice" : 85.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001110623_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001110623_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001110623_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001110623_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_COLOUR_41" : "GREY",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Silver",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_SIZE_GUIDE_41" : "WomensClothing"
+    }
+  }, {
+    "id" : 22406470,
+    "name" : "Teen Bridesmaid One Shoulder Blush Long Dress",
+    "unitPrice" : 40.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506233130_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506233130_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506233130_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506233130_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "ORANGE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Pinks",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22375580,
+    "name" : "Younger Girls Bridemaid Ella Diamante Bow",
+    "unitPrice" : 14.00,
+    "productIcon" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/360video.png",
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134790904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134790904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134790904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134790904_large.jpg"
+    }, {
+      "assetType" : "IMAGE_PRODUCT_ICON",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/360video.png"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsFootwear",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406450,
+    "name" : "Teen Bridesmaid One Shoulder Grape Dress Long",
+    "unitPrice" : 40.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506260173_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506260173_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506260173_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506260173_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "PURPLE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Purples",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406429,
+    "name" : "Teen Bridesmaid Illusion Neckline Ivory Dress Long",
+    "unitPrice" : 40.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506310904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506310904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506310904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506310904_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406272,
+    "name" : "Teen Bridesmaid One Shoulder Damson Dress Long",
+    "unitPrice" : 40.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506251670_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506251670_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506251670_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506251670_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "PURPLE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Purples",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22676665,
+    "name" : "Teen Bridesmaid Illusion Neckline Grape Dress Long",
+    "unitPrice" : 40.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506350173_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506350173_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506350173_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506350173_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "PURPLE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Purples",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406376,
+    "name" : "Teen Bridesmaid Illusion Neckline Navy Dress Short",
+    "unitPrice" : 30.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506400249_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506400249_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506400249_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506400249_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "BLUE",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Navys",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22090726,
+    "name" : "Navy Primrose Pleat Skirt  Bridemaid Dress",
+    "unitPrice" : 95.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001070745_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001070745_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001070745_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001070745_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "BLUE",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Navys",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_SIZE_GUIDE_41" : "WomensClothing"
+    }
+  }, {
+    "id" : 22406419,
+    "name" : "Teen Bridesmaid Illusion Neckline Primrose Long Dress",
+    "unitPrice" : 40.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506379184_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506379184_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506379184_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506379184_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "IGNORE (NOT WCS)",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Yellows"
+    }
+  }, {
+    "id" : 22406292,
+    "name" : "Teen Bridesmaid One Shoulder Mint Dress Long",
+    "unitPrice" : 40.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506278942_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506278942_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506278942_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506278942_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "GREEN",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Mint Green and Greens",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22090878,
+    "name" : "Navy Lottie Lace Bridesmaid Dress",
+    "unitPrice" : 95.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001020745_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001020745_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001020745_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001020745_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "BLUE",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Navys",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_SIZE_GUIDE_41" : "WomensClothing"
+    }
+  }, {
+    "id" : 22406335,
+    "name" : "Teen Bridesmaid One Shoulder Blush Dress Short",
+    "unitPrice" : 30.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506303130_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506303130_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506303130_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506303130_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "ORANGE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Pinks",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406409,
+    "name" : "Teen Bridesmaid Illusion Neckline Mint Dress Long",
+    "unitPrice" : 40.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506368942_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506368942_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506368942_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506368942_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "GREEN",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Mint Green and Greens",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406398,
+    "name" : "Teen Bridesmaid Illusion Neckline Damson Dress Long",
+    "unitPrice" : 40.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506341670_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506341670_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506341670_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506341670_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "PURPLE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Purples",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406622,
+    "name" : "Isabelle Blush Pink Butterfly Flower Girl Dress",
+    "unitPrice" : 34.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506703130_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506703130_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506703130_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506703130_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Flower Girl",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "ORANGE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Pinks",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406742,
+    "name" : "Bella Bow Blush Flower Girl Dress",
+    "unitPrice" : 20.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506163130_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506163130_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506163130_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506163130_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Flower Girl",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "ORANGE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Pinks",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406637,
+    "name" : "Isabelle Ivory Butterfly Flower Girl Dress",
+    "unitPrice" : 34.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506010904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506010904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506010904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506010904_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Flower Girl",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406517,
+    "name" : "Bella Bow Navy Flower Girl Dress",
+    "unitPrice" : 20.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506170249_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506170249_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506170249_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506170249_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "BLUE",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Flower Girl",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Navys",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22090661,
+    "name" : "Peach Pink Primrose Bridesmaid Dress",
+    "unitPrice" : 95.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001083155_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001083155_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001083155_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001083155_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_COLOUR_41" : "PINK",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Pinks",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_SIZE_GUIDE_41" : "WomensClothing"
+    }
+  }, {
+    "id" : 22406757,
+    "name" : "Mya Sequin Butterfly Flower Girl Dress",
+    "unitPrice" : 34.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506210904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506210904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506210904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506210904_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Flower Girl",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406532,
+    "name" : "Bella Bow Grape Flower Girl Dress",
+    "unitPrice" : 20.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506190173_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506190173_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506190173_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506190173_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Flower Girl",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "PURPLE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Purples",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22090643,
+    "name" : "Grey Primrose Bridesmaid Dress",
+    "unitPrice" : 95.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001080623_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001080623_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001080623_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/19001080623_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_COLOUR_41" : "GREY",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Silver",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_SIZE_GUIDE_41" : "WomensClothing"
+    }
+  }, {
+    "id" : 22406652,
+    "name" : "Layla Navy Flower Girl Corsage Dress",
+    "unitPrice" : 40.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506050249_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506050249_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506050249_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506050249_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "BLUE",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Flower Girl",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Navys",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22375611,
+    "name" : "Bridesmaid Molly Beaded Ballet Shoe",
+    "unitPrice" : 16.00,
+    "productIcon" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/360video.png",
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134820904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134820904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134820904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134820904_large.jpg"
+    }, {
+      "assetType" : "IMAGE_PRODUCT_ICON",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/360video.png"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsFootwear",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406682,
+    "name" : "Chloe Ivory Collar Flower Girl Dress",
+    "unitPrice" : 38.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506100904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506100904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506100904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506100904_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Flower Girl",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406547,
+    "name" : "Bella Bow Mint Flower Girl Dress",
+    "unitPrice" : 20.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506208942_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506208942_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506208942_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506208942_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Flower Girl",
+      "ECMC_PROD_COLOUR_41" : "GREEN",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Mint Green and Greens",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 19973696,
+    "name" : "Layla Blush Flower Girl Corsage Dress",
+    "unitPrice" : 36.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506043130_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506043130_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506043130_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506043130_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Flower Girl",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "ORANGE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Pinks",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406727,
+    "name" : "Bella Bow Ivory Flower Girl Dress",
+    "unitPrice" : 20.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506150904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506150904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506150904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506150904_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Flower Girl",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406502,
+    "name" : "Bella Bow Merlot Flower Girl Dress",
+    "unitPrice" : 20.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506181670_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506181670_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506181670_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506181670_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Flower Girl",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "PURPLE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Reds",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406302,
+    "name" : "Teen One Shoulder Ivory Long Dress",
+    "unitPrice" : 40.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506220904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506220904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506220904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506220904_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406345,
+    "name" : "Teen Illusion Neckline Mint Dress Short",
+    "unitPrice" : 30.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506438942_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506438942_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506438942_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506438942_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "GREEN",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Mint Green and Greens",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Teen Bridesmaids",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 19973681,
+    "name" : "Layla Ivory Flower Girl Corsage Dress",
+    "unitPrice" : 36.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506030904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506030904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506030904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506030904_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_CE3_PRODUCT_TYPE_41" : "Dresses",
+      "ECMC_PROD_CE3_FLOWER_GIRL_41" : "Dresses",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Flower Girl",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_CE3_STYLE_41" : "Wedding & Bridal"
+    }
+  }, {
+    "id" : 22406697,
+    "name" : "Chloe Collar Blush Flower Girl Dress",
+    "unitPrice" : 38.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506113130_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506113130_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506113130_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506113130_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Flower Girl",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "ORANGE",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Pinks",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22406562,
+    "name" : "Layla Merlot Flower Girl Corsage Dress",
+    "unitPrice" : 40.00,
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506069472_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506069472_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506069472_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/6506069472_large.jpg"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Flower Girl",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsGirls",
+      "ECMC_PROD_COLOUR_41" : "RED",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Reds",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22375525,
+    "name" : "Bridesmaid Salsa Corsage T-Bar Sandal",
+    "unitPrice" : 16.00,
+    "productIcon" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/360video.png",
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134770904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134770904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134770904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134770904_large.jpg"
+    }, {
+      "assetType" : "IMAGE_PRODUCT_ICON",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/360video.png"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsFootwear",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22375764,
+    "name" : "Bridesmaid Sophie Glitter Mini Heel",
+    "unitPrice" : 18.00,
+    "productIcon" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/360video.png",
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134780904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134780904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134780904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134780904_large.jpg"
+    }, {
+      "assetType" : "IMAGE_PRODUCT_ICON",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/360video.png"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsFootwear",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  }, {
+    "id" : 22375744,
+    "name" : "Bridesmaid Ruby Diamante Heel Sandal",
+    "unitPrice" : 18.00,
+    "productIcon" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/360video.png",
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134840904_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134840904_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134840904_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/1134840904_large.jpg"
+    }, {
+      "assetType" : "IMAGE_PRODUCT_ICON",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/360video.png"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_WEDDING_PERSON_41" : "Bridesmaid",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Ivory and Cream and White",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsFootwear",
+      "ECMC_PROD_COLOUR_41" : "NEUTRAL",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "UNKNOWN (NOT WCS)",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "UNKNOWN (NOT WCS)"
+    }
+  } ]
+}

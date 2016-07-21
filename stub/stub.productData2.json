@@ -1,0 +1,120 @@
+{
+  "productSet" : [ {
+    "id" : 16867961,
+    "name" : "Boys JRM Navy Cotton Sateen Suit Trousers",
+    "unitPrice" : 18.00,
+    "productIcon" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/ICONS_JRM_kids.png",
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/2077600249_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/2077600249_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/2077600249_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/2077600249_large.jpg"
+    }, {
+      "assetType" : "IMAGE_PRODUCT_ICON",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/ICONS_JRM_kids.png"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "BLUE",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "Childrens Clothing",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsBoys",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Navys",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "Older Boys Suits",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Pageboy",
+      "ECMC_PROD_CE3_TROUSERS_41" : "Smart Trousers",
+      "ECMC_PROD_CE3_BOYS_SUITS_41" : "Trousers",
+      "ECMC_PROD_CE3_PRODUCT_TYPE_41" : "Trousers"
+    }
+  }, {
+    "id" : 16867947,
+    "name" : "Boys JRM Navy Suit Waistcoat",
+    "unitPrice" : 16.00,
+    "productIcon" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/ICONS_JRM_kids.png",
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/2077590249_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/2077590249_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/2077590249_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/2077590249_large.jpg"
+    }, {
+      "assetType" : "IMAGE_PRODUCT_ICON",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/ICONS_JRM_kids.png"
+    } ],
+    "bazaarVoice" : [ {
+      "productRating" : "",
+      "productMaxRating" : "5",
+      "productScore" : "4.0"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "BLUE",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "Childrens Clothing",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsBoys",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Navys",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "Older Boys Suits",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Pageboy",
+      "ECMC_PROD_CE3_BOYS_SUITS_41" : "Waistcoat"
+    }
+  }, {
+    "id" : 16867926,
+    "name" : "Boys JRM Navy Cotton Sateen Suit Jacket",
+    "unitPrice" : 34.00,
+    "productIcon" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/ICONS_JRM_kids.png",
+    "promoGraphic" : "",
+    "images" : [ {
+      "assetType" : "IMAGE_SMALL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/2077570249_small.jpg"
+    }, {
+      "assetType" : "IMAGE_THUMB",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/2077570249_thumb.jpg"
+    }, {
+      "assetType" : "IMAGE_NORMAL",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/2077570249_normal.jpg"
+    }, {
+      "assetType" : "IMAGE_LARGE",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/2077570249_large.jpg"
+    }, {
+      "assetType" : "IMAGE_PRODUCT_ICON",
+      "index" : 1,
+      "url" : "http://media.bhs.co.uk/wcsstore/BHSUK/images/catalog/category_icons/ICONS_JRM_kids.png"
+    } ],
+    "attributes" : {
+      "ECMC_PROD_COLOUR_41" : "BLUE",
+      "ECMC_PROD_PEERIUSPRODUCTTYPE_41" : "Childrens Clothing",
+      "ECMC_PROD_CE3_PRODUCT_TYPE_41" : "Coats & Jackets",
+      "ECMC_PROD_CE3_BOYS_SUITS_41" : "Jackets",
+      "ECMC_PROD_CE3_SUITS_AND_WORKWEAR_41" : "Jackets",
+      "ECMC_PROD_SIZE_GUIDE_41" : "KidsBoys",
+      "ECMC_PROD_WEDDING_COLOUR_41" : "Navys",
+      "ECMC_PROD_PEERIUSPRODUCTTERM_41" : "Older Boys Suits",
+      "ECMC_PROD_WEDDING_PERSON_41" : "Pageboy"
+    }
+  } ]
+}

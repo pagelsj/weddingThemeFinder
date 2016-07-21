@@ -1,0 +1,695 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ur",
+				"uris"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"filter",
+				"filter-type"
+			],
+			[
+				"color",
+				"colorReg"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"build",
+				"buildProductList"
+			],
+			[
+				"pr",
+				"productData"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"img",
+				"imgSrc"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"pro",
+				"productsList"
+			],
+			[
+				"sele",
+				"selectedFiltersObj"
+			],
+			[
+				"setting",
+				"settingsObj"
+			],
+			[
+				"buildP",
+				"buildProductTile"
+			],
+			[
+				"O",
+				"Object"
+			],
+			[
+				"wedd",
+				"weddingColourThemeFinder"
+			],
+			[
+				"weddin",
+				"weddingFinder"
+			],
+			[
+				"wedding",
+				"weddingColourThemeFinder"
+			],
+			[
+				"role",
+				"roleTemplate"
+			],
+			[
+				"Weddin",
+				"WeddingFinder"
+			],
+			[
+				"add",
+				"addEvents"
+			],
+			[
+				"al",
+				"alphaSizeContainer"
+			],
+			[
+				"code",
+				"codeFactory"
+			],
+			[
+				"c",
+				"createCSV"
+			],
+			[
+				"hue",
+				"hueFinder"
+			],
+			[
+				"image",
+				"imageContainer"
+			],
+			[
+				"up",
+				"updateCheckoutButton"
+			],
+			[
+				"recomm",
+				"recommendationInterstitial"
+			],
+			[
+				"ge",
+				"getUrlParam"
+			],
+			[
+				"A",
+				"Arcadia"
+			],
+			[
+				"prod",
+				"prod1"
+			],
+			[
+				"se",
+				"setCookie"
+			],
+			[
+				"page",
+				"pageObj"
+			],
+			[
+				"cookie",
+				"cookiePolicy"
+			],
+			[
+				"test",
+				"testCookiePolicy"
+			],
+			[
+				"temp",
+				"tempObj"
+			],
+			[
+				"new",
+				"newPrice"
+			],
+			[
+				"js",
+				"jsObj"
+			],
+			[
+				"css",
+				"cssVersion"
+			],
+			[
+				"sass",
+				"sassObj"
+			],
+			[
+				"watch",
+				"watchScripts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/wed.settings.js",
+			"settings":
+			{
+				"buffer_size": 1412,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 549,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/SVN/Brand Work Files/Topman EU/feature/javascript/TMEUmisc.js",
+			"settings":
+			{
+				"buffer_size": 10164,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/SVN/Brand Work Files/Topman/feature/javascript/TMmisc.js",
+			"settings":
+			{
+				"buffer_size": 17307,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/SVN/Brand Work Files/Topman/feature/javascript/TMmisc.js",
+		"/E/SVN/Brand Work Files/Topman/style/v4-CE3/compass_app_log.txt",
+		"/E/SVN/Brand Work Files/Topman/style/v4-CE3/checkout_step_2.html",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/js/wed.main.js",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/js/wed.helpers.js",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/js/vendors.js",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/js/wed.filter.js",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/index.html",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/css/main.css",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/js/wed.settings.js",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/js/wed.products.js",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/stub/stub.productData2.json",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/stub/stub.productData.json",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/gruntfile.js",
+		"/E/SVN/Brand Work Files/Dorothy Perkins/properties/Order Confirmation OIS.shtm",
+		"/E/SVN/Brand Work Files/Dorothy Perkins/properties/075 Email - Order Cancelled.shtm",
+		"/E/SVN/Brand Work Files/Dorothy Perkins/properties/Checkout Email Basket.shtm",
+		"/C/Users/pagelsj/Documents/devEnv/EBM/cms_publish_subs.txt",
+		"/C/Users/pagelsj/Documents/devEnv/EBM/cms_preview_subs.txt",
+		"/E/SVN/Brand Work Files/Dorothy Perkins/properties/Email DTS Order dispatched Partial.shtm",
+		"/E/SVN/Brand Work Files/Dorothy Perkins/properties/Email DTS Order dispatched Full.shtm",
+		"/E/SVN/Brand Work Files/Dorothy Perkins/properties/077 Email - Order Despatched Full.shtm",
+		"/E/SVN/Brand Work Files/Dorothy Perkins/properties/Email DTS Confirmation.shtm",
+		"/E/SVN/Brand Work Files/Dorothy Perkins/properties/Email Back In Stock.shtm",
+		"/E/SVN/Brand Work Files/Topman/properties/080 Email - Order Rejected - No Stock.shtm",
+		"/E/SVN/Brand Work Files/Topman/properties/079 Email - Order Rejected - Fraudulent.shtm",
+		"/E/SVN/Brand Work Files/Topman/properties/078 Email - Order Despatched Partial.shtm",
+		"/E/SVN/Brand Work Files/BHS/properties/139 Setup Your Account Page Header.shtm",
+		"/E/SVN/Brand Work Files/BHS/properties/079 Email - Order Rejected - Fraudulent.shtm",
+		"/E/SVN/Brand Work Files/BHS/properties/080 Email - Order Rejected - No Stock.shtm",
+		"/E/SVN/Brand Work Files/BHS/properties/InStore Forgotten Pickup.shtm",
+		"/E/Projects/suit_builder/suits_builder.js",
+		"/E/Projects/suit_builder/suits_builder_test.htm",
+		"/E/Projects/TSCW/js/app.js",
+		"/E/Projects/TSCW/js/services/wishlist.services.js",
+		"/E/Projects/TSCW/js/services/settings.services.js",
+		"/E/Projects/TSPinterest/js/services/tspServices.js",
+		"/E/Projects/suit_builder/suits_builder.htm",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/js/es6.js",
+		"/E/Projects/suit_builder/ECMC_backup.js",
+		"/C/Users/pagelsj/Downloads/sugar-1.4.1-custom.dev.js",
+		"/C/Users/pagelsj/Downloads/sugar-1.4.1-custom.min.js",
+		"/E/SVN/Brand Work Files/BHS/grunt/Gruntfile.js",
+		"/E/SVN/Brand Work Files/Topman/grunt/Gruntfile.js",
+		"/E/SVN/Brand Work Files/Topman/grunt/TOPMAN.bat",
+		"/E/development/src/javascript/legacy/Arcadia.js",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/js/polyfill.ie.js",
+		"/E/development/src/javascript/legacy/lib/locale/en_GB.js",
+		"/E/development/src/javascript/legacy/lib/brands/topman/topmaneu.js",
+		"/E/SVN/Brand Work Files/Topman/style/v4/sass/_modules/_shopping-bag.scss",
+		"/E/SVN/Brand Work Files/Topman/style/v4/sass/_modules/_checkout.scss",
+		"/E/SVN/Brand Work Files/Topman EU/feature/javascript/TMEUmisc.js",
+		"/E/SVN/Brand Work Files/Topman Germany/feature/javascript/TMDEmisc.js",
+		"/E/Projects/videojs-tag-generator/js/settings/tsnew.json",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/package.json",
+		"/E/Projects/tscw_ui/trunk/gruntfile.js",
+		"/E/Projects/tscw_ui/trunk/package.json",
+		"/E/Projects/videojs-tag-generator/css/styles.css",
+		"/E/Projects/videojs-tag-generator/index.html",
+		"/E/Projects/videojs-tag-generator/services/createCode.js",
+		"/E/Projects/videojs-tag-generator/factories/videoBuilder.js",
+		"/E/Projects/videojs-tag-generator/js/scopeService.js",
+		"/E/Projects/videojs-tag-generator/js/videoBuilder.js",
+		"/E/Projects/videojs-tag-generator/js/app.js",
+		"/E/Projects/TSPinterest/js/services/tspConfig.js",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/js/main.js",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/js/filter.js",
+		"/E/SVN/Brand Work Files/BHS/feature/weddingColourFinder/templates/template.filter.js",
+		"/E/Projects/TSCW/js/vendor/jquery-1.11.3.min.js",
+		"/E/SVN/Brand Work Files/Topshop/feature/javascript/TSmisc.js",
+		"/E/Projects/suit_builder/mb/mb.html",
+		"/E/Projects/suit_builder/suits_builder.css",
+		"/E/development/src/javascript/legacy/product.js",
+		"/E/development/src/javascript/legacy/lib/brands/topshop/topshopus.js",
+		"/E/development/src/javascript/legacy/lib/brands/topshop/topshop.js",
+		"/E/SVN/Brand Work Files/Topshop/grunt/Gruntfile.js",
+		"/E/SVN/Brand Work Files/Topshop/grunt/TOPSHOP.bat",
+		"/E/SVN/Brand Work Files/Topshop/style/v3/sass/_modules/_pdp.scss",
+		"/E/SVN/Brand Work Files/Topshop US/style/v3/sass/brand.scss",
+		"/E/SVN/Brand Work Files/Topshop US/feature/javascript/TSUSmisc.js",
+		"/E/SVN/Brand Work Files/Topshop Germany/feature/javascript/TSDEmisc.js",
+		"/E/SVN/Brand Work Files/Topshop France/feature/javascript/TSFRmisc.js",
+		"/E/SVN/Brand Work Files/Topshop EU/feature/javascript/TSEUmisc.js",
+		"/E/Projects/tscw_ui/trunk/js/services/settings.services.js",
+		"/E/Projects/tscw_ui/trunk/stub/wishlist.json",
+		"/E/Projects/TSPinterest/js/app.js",
+		"/E/Projects/tscw_ui/branches/pinterest/templates/mainTemplate.html",
+		"/E/Projects/tscw_ui/trunk/plp.html",
+		"/E/Projects/tscw_ui/trunk/index.html",
+		"/E/Projects/TSCW/stub/wishlist.json",
+		"/E/3.37.1/src/javascript/legacy/lib/brands/topman/topman.js",
+		"/C/Users/pagelsj/Documents/TSCW/js/directives/wishlistItem.directive.js",
+		"/C/Users/pagelsj/Documents/TSCW/js/directives/wishlistCollection.directive.js",
+		"/C/Users/pagelsj/Documents/TSCW/js/directives/socialMedia.directive.js",
+		"/C/Users/pagelsj/Documents/TSCW/js/services/wishlist.services.js",
+		"/C/Users/pagelsj/Documents/TSCW/stub/wishlist.json",
+		"/C/Users/pagelsj/Documents/TSCW/js/services/settings.services.js",
+		"/E/TSPinterest/js/modules/pinBoard.js",
+		"/E/TSPinterest/js/modules/colorPallet.js",
+		"/E/hueFinder/file.csv",
+		"/E/3.37.1/src/javascript/legacy/lib/plugins/arcadia.formValidation.js",
+		"/E/3.37.1/src/javascript/legacy/product.js",
+		"/E/3.37.1/src/javascript/legacy/checkout/my_details.js",
+		"/E/SVN/Brand Work Files/Topman/feature/javascript/qubit-integration-topman.js",
+		"/E/SVN/Brand Work Files/Burton/feature/javascript/BRmisc.js",
+		"/E/3.37.1/src/javascript/legacy/Arcadia.js",
+		"/E/3.37.1/src/javascript/legacy/lib/brands/burton/burton.js",
+		"/E/3.37.1/src/javascript/legacy/checkout/validation_settings.js",
+		"/E/Projects/TSCW/js/vendor/omgGif.js",
+		"/E/Projects/TSCW/js/vendor/encode64.js",
+		"/E/Projects/TSCW/js/vendor/gifEncoder.js",
+		"/E/Projects/TSCW/js/vendor/easeljs-0.8.1.min.js",
+		"/E/Projects/TSCW/js/services/createGif.factory_old.js",
+		"/E/Projects/hueFinder/app.js",
+		"/E/Projects/TSCW/js/vendor/mfAnimated.js",
+		"/E/Projects/TSCW/js/vendor/omggif-worker.js",
+		"/E/Projects/TSCW/js/workers/animated_gif.min.worker.js",
+		"/E/Projects/TSCW/js/vendor/gifshot.js",
+		"/E/Projects/TSCW/js/vendor/NeuQuant.js",
+		"/E/Projects/TSCW/templates/mainTemplate.html",
+		"/E/Projects/TSCW/js/directives/createGif.directive.js",
+		"/E/Projects/TSCW/js/directives/userWishlist.directive.js",
+		"/E/Projects/TSCW/js/controllers/userWishlist.controller.js",
+		"/E/Projects/TSCW/index.html",
+		"/E/Projects/TSCW/css/main.css",
+		"/E/Projects/TSCW/templates/wishlistItem.html",
+		"/E/Projects/TSCW/js/directives/wishlistItemDirective.js",
+		"/E/Projects/TSPinterest/mob.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"light",
+			"?",
+			"$",
+			"showMoreResults",
+			"ITEMS.",
+			"ITEMS",
+			"&",
+			"204521",
+			"Instore",
+			"conso",
+			"bundleBuilder",
+			"new bundleBuilder",
+			"bundleBuilder.init",
+			"bundleBuilder",
+			"\n                    ",
+			"console.",
+			".thumbs",
+			".thumbs li",
+			".thumba li",
+			".thumb li",
+			"waitForAjax",
+			"total",
+			"bundleProducts",
+			"pushColours",
+			"swatches",
+			"excludedproducts ",
+			".upper",
+			"upper",
+			"bundleBuilder",
+			"<script type=\"text/javascript\" src=\"http://localhost:81/suitbuilder/suits_builder.js\"></script> \nbundleBuilder",
+			"<script type=\"text/javascript\" src=\"http://localhost:81/suitbuilder/suits_builder.js\"></script> ",
+			"suits-container",
+			"suit-container",
+			"toggleWarning",
+			"suits_bui",
+			"defineProperty",
+			"watch",
+			"EnumerableMethods",
+			"extend",
+			"watch",
+			"define",
+			"definePropertySupport",
+			"watch",
+			"selected",
+			"watch",
+			"l",
+			"call",
+			"Array.pro",
+			"indexOf",
+			"buildProductList",
+			"availableColours",
+			"colour",
+			"help",
+			"new",
+			"filteredResults",
+			"onFilterChange",
+			"videoContent",
+			"filtercolors",
+			"filterroles",
+			"customPlayReplayButtons",
+			"/*",
+			"video",
+			"})();\n",
+			"showCustomerServiceNumber",
+			"90%",
+			"showAlphaSizing",
+			"\":\"\",\n",
+			"TSCW",
+			"\"/images",
+			"\"/images/",
+			"sto",
+			"low",
+			"UI.lightbox",
+			"cboxElement",
+			"cbo",
+			"guide",
+			"size",
+			"guide",
+			"size",
+			"validationSettings",
+			"Validation",
+			"validationSettings",
+			"Validation",
+			"o",
+			"0",
+			"applyRules",
+			"fieldName",
+			"key",
+			"number",
+			"32",
+			"which",
+			"key",
+			"32",
+			"key",
+			"32",
+			"key",
+			"{1,2}[0-9A-Za-z]{1,2}[ ]?[0-9]{0,1}[A-Za-z]{2}",
+			"key",
+			"manual",
+			"ma",
+			"32",
+			"key",
+			"32",
+			"key",
+			"32",
+			"address",
+			"house",
+			"32",
+			"key",
+			"space",
+			"houseNumber",
+			"delivery_house_number",
+			"lookupFields",
+			"delivery_house_number",
+			"house",
+			"number",
+			"address",
+			"house",
+			"delivery_house_number",
+			"addres",
+			"house",
+			"delivery_house_number",
+			"house",
+			"delivery_house_number",
+			"house",
+			"_house_number",
+			"delivery_house_number",
+			"house"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/wed.settings.js",
+					"settings":
+					{
+						"buffer_size": 1412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1412,
+								1412
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 56.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gruntfile.js",
+					"settings":
+					{
+						"buffer_size": 549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/SVN/Brand Work Files/Topman EU/feature/javascript/TMEUmisc.js",
+					"settings":
+					{
+						"buffer_size": 10164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9487,
+								9487
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3159.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/SVN/Brand Work Files/Topman/feature/javascript/TMmisc.js",
+					"settings":
+					{
+						"buffer_size": 17307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16790,
+								16607
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4885.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 366.0,
+	"status_bar_visible": true
+}

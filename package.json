@@ -1,0 +1,13 @@
+{
+  "name": "BHSWeddingColourThemeFinder",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "grunt-cli": "x.x.x",
+    "grunt-contrib-uglify": "x.x.x",
+  },
+  "description": "BHS Wedding colour Theme Finder",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

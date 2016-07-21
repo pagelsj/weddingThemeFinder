@@ -1,0 +1,248 @@
+.cms_content{
+	background:none !important;
+}
+#flash_holder{
+	height:auto !important;
+}
+
+#wctf{
+	max-width:990px;
+	margin:10px auto 0;
+  	font-size: 1.34em;
+}
+#wctf > .header{
+	font-family: 'Lato', Arial, sans-serif;
+	font-weight:lighter;
+	text-align:center;
+	display:block;
+	background:url("/weddingColourThemeFinder/images/bgFilter.png") 0 0;
+	padding-bottom:20px;
+	min-height:350px;
+}
+#wctf > .header p{
+	padding:0;
+}
+
+/*
+	SETTING DEFAULT GLOBALS
+*/
+	#wctf h1,
+	#wctf p{
+		font-weight:normal;
+		color:#505050 !important;
+		display: inline-block;
+	}
+	#wctf h1{
+		margin: 15px 0 0;
+	}
+	#wctf p{
+		font-size:14px;
+		font-weight: 300;
+		line-height: 2em;
+		margin:8px 0 10px;
+	}
+
+
+/*
+	MAIN FILTER STYLING
+*/
+
+	#wctfFilter{
+	}
+
+
+	/*
+		FILTER:
+			+ ROLES
+	*/
+		#filterroles{
+			text-align: center;
+		}
+		#filterroles span{
+			display:inline-block;
+			height:118px;
+			width:118px;
+			margin:0 14px;
+			overflow:hidden;
+			text-indent:99em;
+			background: url("/weddingColourThemeFinder/images/sprFilterRole.png") no-repeat;
+		}
+		#filterroles .Bridesmaid{
+			background-position: -595px 10px;
+		}
+		#filterroles .Bridesmaid.selected{
+			background-position: -595px -119px;
+		}
+
+		#filterroles .TeenBridesmaids{
+			background-position: -476px 10px;
+		}
+		#filterroles .TeenBridesmaids.selected{
+			background-position: -476px -119px;
+		}
+
+		#filterroles .FlowerGirl{
+			background-position: -357px 10px;
+		}
+		#filterroles .FlowerGirl.selected{
+			background-position: -357px -119px;
+		}
+
+		#filterroles .Groom{
+			background-position: -238px 10px;
+		}
+		#filterroles .Groom.selected{
+			background-position: -238px -119px;
+		}
+
+		#filterroles .Usher{
+			background-position: -119px 10px;
+		}
+		#filterroles .Usher.selected{
+			background-position: -119px -119px;
+		}
+
+		#filterroles .Pageboy{
+			background-position: 0 10px;
+		}
+		#filterroles .Pageboy.selected{
+			background-position: 0 -119px;
+		}
+
+	/*
+		FILTER:
+			+ COLORS
+	*/
+		#filtercolors{
+			text-align: center;
+		}
+		#filtercolors span{
+			display:inline-block;
+			height:88px;
+			width:87px;
+			margin:0 3.5px;
+			overflow:hidden;
+			text-indent:99em;
+			background: url("/weddingColourThemeFinder/images/sprFilterColor.png") no-repeat;
+		}
+		#filtercolors .Navys{
+			background-position: 0 8px;
+		}
+		#filtercolors .Navys.selected{
+			background-position: 0 -87px;
+		}
+
+
+		#filtercolors .Blues{
+			background-position: -88px 8px;
+		}
+		#filtercolors .Blues.selected{
+			background-position: -88px -87px;
+		}
+
+
+		#filtercolors .MintGreenandGreens{
+			background-position: -176px 8px;
+		}
+		#filtercolors .MintGreenandGreens.selected{
+			background-position: -176px -87px;
+		}
+
+
+		#filtercolors .Purples{
+			background-position: -264px 8px;
+		}
+		#filtercolors .Purples.selected{
+			background-position: -264px -87px;
+		}
+
+
+		#filtercolors .Pinks{
+			background-position: -352px 8px;
+		}
+		#filtercolors .Pinks.selected{
+			background-position: -352px -87px;
+		}
+
+
+		#filtercolors .Reds{
+			background-position: -440px 8px;
+		}
+		#filtercolors .Reds.selected{
+			background-position: -440px -87px;
+		}
+
+
+		#filtercolors .Silver{
+			background-position: -528px 8px;
+		}
+		#filtercolors .Silver.selected{
+			background-position: -528px -87px;
+		}
+
+
+		#filtercolors .IvoryandCreamandWhite{
+			background-position: -616px 8px;
+		}
+		#filtercolors .IvoryandCreamandWhite.selected{
+			background-position: -616px -87px;
+		}
+
+
+		#filtercolors .Yellows{
+			background-position: -704px 8px;
+		}
+		#filtercolors .Yellows.selected{
+			background-position: -704px -87px;
+		}
+
+
+
+/*
+	PRODUCTS STYLING
+*/
+
+	#wctfProducts{
+		/*text-align:center;*/
+		padding:0 15px;
+	}
+	#wctfProducts .productTile{
+		display:inline-block;
+		width:170px;
+		margin:20px 11px 0;
+		min-height:323px;
+		vertical-align: top;
+/*		background: #d9d6d7;*/
+		text-align: center;
+		border-bottom:1px solid #ececec;
+	}
+	#wctfProducts .productTile p{
+		line-height: 1.08em;
+		color:#000;
+		font-size: 0.75em;
+		font-family: Arial, Helvetica, sans-serif;
+		display: block;
+	}
+	#wctfProducts .productTile p.nowPrice{
+		font-weight:bold;
+	}
+	#wctfProducts .error{
+		background:url("http://www.bhs.co.uk/wcsstore/ConsumerDirectStorefrontAssetStore/images/colors/color35/v3/checkout/invalid.gif") 0 7px no-repeat;
+		padding:0 0 0 20px;
+	}
+	
+
+
+
+/*
+	MISC ELEMENT STYLING
+*/
+	.showMoreResults{
+		margin:20px 0;
+		text-align: center;
+	}
+	.showMoreResults a{
+		cursor: pointer;
+		font-weight:normal;
+		color:#505050 !important;
+	}
